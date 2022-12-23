@@ -6,7 +6,7 @@
   #abc{
     width:100%;
     height:100vh;
-    background-image: url(photo/img2.jpg);
+    background-image: url(img2.jpg);
     background-repeat: no-repeat;
   background-attachment: fixed;
     background-size: cover;
@@ -120,7 +120,7 @@
   #nm{
     width:100%;
     height:100vh;
-    background-image: url(photo/N2.png);
+    background-image: url(N2.png);
     background-repeat: no-repeat;
   background-attachment: fixed;
     background-size: cover;
